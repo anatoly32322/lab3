@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com</OriginalElement>
+  <nodes>
+    <node x="13.5" y="0.0">com.IPerson</node>
+    <node x="320.0" y="854.0">com.Pillow</node>
+    <node x="468.0" y="0.0">com.TrainModels</node>
+    <node x="0.0" y="854.0">com.Ticket</node>
+    <node x="235.0" y="148.0">com.Train</node>
+    <node x="0.0" y="562.0">com.Employee</node>
+    <node x="162.0" y="854.0">com.Cane</node>
+    <node x="263.0" y="0.0">com.ITrain</node>
+    <node x="739.0" y="684.0">com.sun</node>
+    <node x="1.0" y="170.0">com.Person</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.Person" target="com.IPerson">
+      <point x="0.0" y="-171.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="com.Train" target="com.ITrain">
+      <point x="0.0" y="-83.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="com.Employee" target="com.Person">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="171.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.567354965585054" x="429.5" y="498.5" />
+  <SelectedNodes>
+    <node>com.IPerson</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
